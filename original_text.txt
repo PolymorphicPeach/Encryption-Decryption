@@ -1,0 +1,6 @@
+Hello World!
+Let's encrypt this file.
+
+^ It can handle blank lines and numbers (12345).
+
+I used static_cast a lot in these programs.
